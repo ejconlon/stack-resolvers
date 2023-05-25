@@ -1,6 +1,6 @@
 resolver: lts-20.22
 
-extra-deps:
+packages:
 # Self Hackage deps
 - little-rio-2.0.0
 - little-logger-1.0.1
