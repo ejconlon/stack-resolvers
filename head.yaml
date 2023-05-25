@@ -24,7 +24,7 @@ packages:
 # - git: git@github.com:ejconlon/muzak.git
 #   commit: e07b33d976d73a9db760e3095c77eddd0ccf691e
 # - git: git@github.com:ejconlon/scrapti.git
-#   commit: 9ed353d6a290a1faadf60c1fa8f6ee6bb2d95266
+#   commit: 7db6ccd254425e9dcab3ce87b0ee103b911ba481
 # External Hackage deps
 - data-sword-0.2.0.3
 - falsify-0.1.1
