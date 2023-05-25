@@ -4,25 +4,27 @@ packages:
 # Self Hackage deps
 - little-rio-2.0.0
 - little-logger-1.0.1
+- aeson-via-0.2.1
 # Self git deps
 - git: git@github.com:ejconlon/dahdit.git
   commit: 2a19b73918f0480d43054de47a643595799cfa00
 - git: git@github.com:ejconlon/dahdit-test.git
-  commit: 87807f1fc076bf4445ead7fb4106dc80525ee85c
+  commit: 6059638114aa51d4a7f21f590ea25589d323e650
 - git: git@github.com:ejconlon/dahdit-network.git
-  commit: dd8cf52f8bc9e10083373ae00d83713dc7a17d88
-- git: git@github.com:ejconlon/midiot.git
-  commit: 83806920e3c50a53c204a3ee268ef274d0989df9
-- git: git@github.com:ejconlon/midriff.git
-  commit: 52d08412381f9080c4692579df136ca2a2126682
-- git: git@github.com:ejconlon/tricksy.git
-  commit: e3f5893a4de4f39e7b716936ccb0687ec8dccc54
-- git: git@github.com:ejconlon/muzak.git
-  commit: 192ac873dcc6fcb44aede2e4a531918a30f94692
-- git: git@github.com:ejconlon/scrapti.git
-  commit: 9ed353d6a290a1faadf60c1fa8f6ee6bb2d95266
+  commit: 87807f1fc076bf4445ead7fb4106dc80525ee85c
 - git: git@github.com:ejconlon/looksie.git
-  commit: 36206d3d06618221a93bc9eafce05749c71c0523
+  commit: 77f5bff4ac0c6434bc248766096eb387bf5ef8e3
+- git: git@github.com:ejconlon/midiot.git
+  commit: 920713db1c51b90089d6e464b4022daa0643459b
+# Leaf git deps
+# - git: git@github.com:ejconlon/midriff.git
+#   commit: a200b59f2e49fc55314a3062f7d25a1c6bf4ae18
+# - git: git@github.com:ejconlon/tricksy.git
+#   commit: 92a1e8502a1258001d9ef3869533c03d539254a7
+# - git: git@github.com:ejconlon/muzak.git
+#   commit: e07b33d976d73a9db760e3095c77eddd0ccf691e
+# - git: git@github.com:ejconlon/scrapti.git
+#   commit: 9ed353d6a290a1faadf60c1fa8f6ee6bb2d95266
 # External Hackage deps
 - data-sword-0.2.0.3
 - falsify-0.1.1
