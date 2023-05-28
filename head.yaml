@@ -1,4 +1,4 @@
-resolver: lts-20.22
+resolver: lts-20.23
 
 packages:
 # Self Hackage deps
@@ -16,6 +16,8 @@ packages:
   commit: 77f5bff4ac0c6434bc248766096eb387bf5ef8e3
 - git: git@github.com:ejconlon/midiot.git
   commit: 920713db1c51b90089d6e464b4022daa0643459b
+- git: git@github.com:riottracker/RtMidi.git
+  commit: 8c3af73ba71a8f3d937fe5d98c0c9655c609a701
 # Leaf git deps
 # - git: git@github.com:ejconlon/midriff.git
 #   commit: a200b59f2e49fc55314a3062f7d25a1c6bf4ae18
@@ -28,5 +30,5 @@ packages:
 # External Hackage deps
 - data-sword-0.2.0.3
 - falsify-0.1.1
-- RtMidi-0.6.1.0
 - primitive-0.8.0.0
+# - RtMidi-0.7.0.0  # TODO release
