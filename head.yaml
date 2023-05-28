@@ -17,7 +17,7 @@ packages:
 - git: git@github.com:ejconlon/midiot.git
   commit: 920713db1c51b90089d6e464b4022daa0643459b
 - git: git@github.com:riottracker/RtMidi.git
-  commit: 8c3af73ba71a8f3d937fe5d98c0c9655c609a701
+  commit: f006e1d040f05a7974910d2392c09090bf71a8bb
 # Leaf git deps
 # - git: git@github.com:ejconlon/midriff.git
 #   commit: a200b59f2e49fc55314a3062f7d25a1c6bf4ae18
