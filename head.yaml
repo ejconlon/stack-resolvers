@@ -9,7 +9,7 @@ packages:
 - git: git@github.com:ejconlon/dahdit.git
   commit: 8906d884ed3e6f8deb12ed57a93b13faac3ce9e6
 - git: git@github.com:ejconlon/dahdit-test.git
-  commit: 6059638114aa51d4a7f21f590ea25589d323e650
+  commit: 4eded9b1c0f2fdaa54ff94d369f7c8cf729e2b5a
 - git: git@github.com:ejconlon/dahdit-network.git
   commit: 21e1281b913c2f6c129e80f525c1a6d6154a2ca8
 - git: git@github.com:ejconlon/looksie.git
