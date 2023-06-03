@@ -15,7 +15,7 @@ packages:
 - git: git@github.com:ejconlon/looksie.git
   commit: 77f5bff4ac0c6434bc248766096eb387bf5ef8e3
 - git: git@github.com:ejconlon/midiot.git
-  commit: 920713db1c51b90089d6e464b4022daa0643459b
+  commit: 711ec8ad3b425099bd08e03b5f09534600240e5a
 - git: git@github.com:riottracker/RtMidi.git
   commit: f006e1d040f05a7974910d2392c09090bf71a8bb
 # Leaf git deps
