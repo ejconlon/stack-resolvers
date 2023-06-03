@@ -7,7 +7,7 @@ packages:
 - aeson-via-0.2.1
 # Self git deps
 - git: git@github.com:ejconlon/dahdit.git
-  commit: db645c066f4486e550bd3d65009d627b749211d2
+  commit: d6a31cf6333f3e918a61ac84a069286983cdcc27
 - git: git@github.com:ejconlon/dahdit-test.git
   commit: 4eded9b1c0f2fdaa54ff94d369f7c8cf729e2b5a
 - git: git@github.com:ejconlon/dahdit-network.git
