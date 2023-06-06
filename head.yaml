@@ -13,7 +13,7 @@ packages:
 - git: git@github.com:ejconlon/dahdit-network.git
   commit: e932c97f85d5bb7de72d800369c2040342bd6d2d
 - git: git@github.com:ejconlon/looksie.git
-  commit: 77f5bff4ac0c6434bc248766096eb387bf5ef8e3
+  commit: 327e7fd6b3c946bbcbc854daf33ba601545c477b
 - git: git@github.com:ejconlon/midiot.git
   commit: 7a638c0b7708f247d631deb31e873e03fcd44c50
 - git: git@github.com:riottracker/RtMidi.git
