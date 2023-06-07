@@ -7,13 +7,13 @@ packages:
 - aeson-via-0.2.1
 # Self git deps
 - git: git@github.com:ejconlon/dahdit.git
-  commit: 6a6321095a3fa5efb98c5a09136129663c3a82da
+  commit: 936c5078d954e57cbb71b2c84a1fc2cc0a860775
 - git: git@github.com:ejconlon/dahdit-test.git
   commit: 4eded9b1c0f2fdaa54ff94d369f7c8cf729e2b5a
 - git: git@github.com:ejconlon/dahdit-network.git
   commit: e932c97f85d5bb7de72d800369c2040342bd6d2d
 - git: git@github.com:ejconlon/looksie.git
-  commit: 327e7fd6b3c946bbcbc854daf33ba601545c477b
+  commit: cb76a92f7d066b7513df1110560f163f7f0a57d7
 - git: git@github.com:ejconlon/midiot.git
   commit: 7a638c0b7708f247d631deb31e873e03fcd44c50
 - git: git@github.com:riottracker/RtMidi.git
