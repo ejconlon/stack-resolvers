@@ -1,34 +1,17 @@
-resolver: lts-20.23
+resolver: lts-20.24
 
 packages:
 # Self Hackage deps
 - little-rio-2.0.0
 - little-logger-1.0.1
 - aeson-via-0.2.1
+- looksie-0.1.0
+- daytripper-0.1.0
+- RtMidi-0.7.0.0
 # Self git deps
 - git: git@github.com:ejconlon/dahdit.git
-  commit: 936c5078d954e57cbb71b2c84a1fc2cc0a860775
-- git: git@github.com:ejconlon/dahdit-test.git
-  commit: 4eded9b1c0f2fdaa54ff94d369f7c8cf729e2b5a
-- git: git@github.com:ejconlon/dahdit-network.git
-  commit: e932c97f85d5bb7de72d800369c2040342bd6d2d
-- git: git@github.com:ejconlon/looksie.git
-  commit: cb76a92f7d066b7513df1110560f163f7f0a57d7
-- git: git@github.com:ejconlon/midiot.git
-  commit: 7a638c0b7708f247d631deb31e873e03fcd44c50
-- git: git@github.com:riottracker/RtMidi.git
-  commit: f006e1d040f05a7974910d2392c09090bf71a8bb
-# Leaf git deps
-# - git: git@github.com:ejconlon/midriff.git
-#   commit: a200b59f2e49fc55314a3062f7d25a1c6bf4ae18
-# - git: git@github.com:ejconlon/tricksy.git
-#   commit: 92a1e8502a1258001d9ef3869533c03d539254a7
-# - git: git@github.com:ejconlon/muzak.git
-#   commit: e07b33d976d73a9db760e3095c77eddd0ccf691e
-# - git: git@github.com:ejconlon/scrapti.git
-#   commit: 7db6ccd254425e9dcab3ce87b0ee103b911ba481
+  commit: 11afbd10fcdf3258915066e68a5af72a8c3108b1
 # External Hackage deps
 - data-sword-0.2.0.3
 - falsify-0.1.1
 - primitive-0.8.0.0
-# - RtMidi-0.7.0.0  # TODO release
