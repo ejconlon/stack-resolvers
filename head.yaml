@@ -5,7 +5,7 @@ packages:
 - little-rio-2.0.0
 - little-logger-1.0.1
 - aeson-via-0.2.1
-- looksie-0.1.0
+- looksie-0.2.0
 - daytripper-0.1.0
 - RtMidi-0.7.0.0
 # Self git deps
